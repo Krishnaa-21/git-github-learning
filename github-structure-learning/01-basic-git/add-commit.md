@@ -25,6 +25,7 @@ To stage all current changes:
 
 git add .
 
+##
 
 Practical Example
 
