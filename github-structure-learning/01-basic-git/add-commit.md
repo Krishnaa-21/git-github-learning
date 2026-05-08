@@ -1,33 +1,18 @@
-# Git Add & Commit — Professional Learning Notes
+# Git Add and Commit
 
-## Overview
+## Introduction
 
-In Git, saving work happens in two important stages:
+In Git, tracking changes is a two-step process. Before changes become part of the project history, they must first be staged and then committed.
 
-1. **git add** → moves changes to the staging area
-2. **git commit** → permanently saves staged changes in Git history
+The `git add` and `git commit` commands are fundamental to daily development workflows and are used in almost every Git-based project.
 
-These are among the most frequently used Git commands in daily development workflows.
+## Git Add
 
----
+The `git add` command is used to stage changes. Staging means selecting specific files or modifications that should be included in the next commit.
 
-# 1. Git Add
+This gives developers control over what gets saved in project history.
 
-## Definition
-
-`git add` moves modified, new, or deleted files into Git’s **staging area**.
-
-The staging area acts like a preparation zone before creating a commit.
-
-Think of it as:
-
-> "Select exactly what should be included in the next save point."
-
----
-
-## Syntax
-
-### Add specific file
+### Syntax
 
 ```bash
-git add filename
+git add <file-name>
