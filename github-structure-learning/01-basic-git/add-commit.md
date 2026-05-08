@@ -56,3 +56,12 @@ Changes to be committed:
   new file: app.py
 
 This confirms that the file has moved from the working directory to the staging area.
+
+
+
+
+Git Commit
+
+The git commit command saves staged changes permanently in Git history.
+
+Think of a commit as a project checkpoint or snapshot.
