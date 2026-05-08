@@ -24,3 +24,34 @@ git add README.md
 To stage all current changes:
 
 git add .
+
+
+Practical Example
+
+Create a new file:
+
+touch app.py
+
+Check repository status:
+
+git status
+
+Expected output:
+
+Untracked files:
+  app.py
+
+Stage the file:
+
+git add app.py
+
+Check status again:
+
+git status
+
+Expected output:
+
+Changes to be committed:
+  new file: app.py
+
+This confirms that the file has moved from the working directory to the staging area.
