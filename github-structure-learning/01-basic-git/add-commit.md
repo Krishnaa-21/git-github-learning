@@ -16,3 +16,11 @@ This gives developers control over what gets saved in project history.
 
 ```bash
 git add <file-name>
+
+Example:
+
+git add README.md
+
+To stage all current changes:
+
+git add .
