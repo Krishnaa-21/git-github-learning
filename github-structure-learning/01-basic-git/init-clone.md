@@ -30,7 +30,6 @@ After running this command, Git creates a hidden `.git` directory that stores:
 - configuration
 - staging information
 - repository metadata
-
 ---
 
 ## Syntax
