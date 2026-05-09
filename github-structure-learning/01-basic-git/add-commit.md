@@ -105,3 +105,10 @@ Explanation:
 Working Directory: Where files are created or modified
 Staging Area: Where selected changes are prepared
 Repository History: Where committed changes are permanently stored
+
+## Difference Between Git Add and Git Commit
+
+| Command      | Purpose                                         |
+| ------------ | ----------------------------------------------- |
+| `git add`    | Selects and stages changes for the next commit  |
+| `git commit` | Saves staged changes permanently in Git history |
