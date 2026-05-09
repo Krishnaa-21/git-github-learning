@@ -28,3 +28,7 @@ In simple terms:
 ```bash
 git push <remote-name> <branch-name>
 ```
+Example:
+```bash
+git push origin main
+```
