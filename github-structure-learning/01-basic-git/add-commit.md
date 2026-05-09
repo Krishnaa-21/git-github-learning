@@ -112,3 +112,22 @@ Repository History: Where committed changes are permanently stored
 | ------------ | ----------------------------------------------- |
 | `git add`    | Selects and stages changes for the next commit  |
 | `git commit` | Saves staged changes permanently in Git history |
+
+## Common Commands
+
+Stage a single file:
+```bash
+git add README.md
+```
+Stage all changes:
+```bash
+git add .
+```
+Commit staged changes:
+```bash
+git commit -m "Add project documentation"
+```
+View commit history:
+```bash
+git log
+```
