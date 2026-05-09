@@ -12,3 +12,13 @@ Two essential commands for this workflow are:
 - `git pull`
 
 These commands are fundamental for sharing work, updating local projects, and collaborating with teams.
+
+## Git Push
+
+The `git push` command uploads local commits from your machine to a remote repository.
+
+It is commonly used after completing local development work and committing changes.
+
+In simple terms:
+
+> Push sends your local changes to GitHub.
