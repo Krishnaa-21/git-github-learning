@@ -67,3 +67,26 @@ This confirms that the file has moved from the working directory to the staging 
 The git commit command saves staged changes permanently in Git history.
 
 Think of a commit as a project checkpoint or snapshot.
+
+Syntax
+git commit -m "commit message"
+
+Example:
+
+git commit -m "Add application entry file"
+Practical Example
+
+After staging files:
+
+git add app.py
+
+Create a commit:
+
+git commit -m "Add app.py file"
+
+Expected output:
+
+1 file changed
+create mode 100644 app.py
+
+This means Git has successfully recorded the changes.
