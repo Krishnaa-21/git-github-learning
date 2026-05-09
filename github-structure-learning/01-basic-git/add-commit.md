@@ -69,6 +69,8 @@ The git commit command saves staged changes permanently in Git history.
 Think of a commit as a project checkpoint or snapshot.
 
 Syntax
+```bash
+
 git commit -m "commit message"
 
 Example:
@@ -88,5 +90,6 @@ Expected output:
 
 1 file changed
 create mode 100644 app.py
+ ```
 
 This means Git has successfully recorded the changes.
