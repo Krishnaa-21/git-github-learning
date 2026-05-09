@@ -22,3 +22,9 @@ It is commonly used after completing local development work and committing chang
 In simple terms:
 
 > Push sends your local changes to GitHub.
+
+### Syntax
+
+```bash
+git push <remote-name> <branch-name>
+```
