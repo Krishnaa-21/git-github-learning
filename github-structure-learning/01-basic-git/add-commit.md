@@ -62,7 +62,7 @@ Changes to be committed:
 This confirms that the file has moved from the working directory to the staging area.
 
 
-Git Commit
+## Git Commit
 
 The git commit command saves staged changes permanently in Git history.
 
