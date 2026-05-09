@@ -93,3 +93,15 @@ create mode 100644 app.py
  ```
 
 This means Git has successfully recorded the changes.
+
+## Git Workflow
+
+A standard Git workflow follows this sequence:
+```bash
+Working Directory → Staging Area → Repository History
+```
+Explanation:
+
+Working Directory: Where files are created or modified
+Staging Area: Where selected changes are prepared
+Repository History: Where committed changes are permanently stored
