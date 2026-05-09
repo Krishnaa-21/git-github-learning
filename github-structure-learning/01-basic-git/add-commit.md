@@ -29,6 +29,8 @@ git add .
 
 Practical Example
 
+```bash
+
 Create a new file:
 
 touch app.py
@@ -55,9 +57,9 @@ Expected output:
 Changes to be committed:
   new file: app.py
 
+  ```
+
 This confirms that the file has moved from the working directory to the staging area.
-
-
 
 
 Git Commit
