@@ -56,9 +56,15 @@ git status
 ```
 
 Expected output:
-```bash
+
 text
 
 Untracked files:
   app.py
+```bash
+# Stage the file:
+git add app.py
+
+# Check status again:
+git status
 ```
