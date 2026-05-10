@@ -78,3 +78,44 @@ Changes to be committed:
 # ✔️ Git Commit
 <div align="center"><img src="https://img.shields.io/badge/Git-Commit-success?style=flat-square&logo=git" /></div>
 The git commit command saves staged changes permanently in Git history.
+📝 Syntax
+```bash
+
+git commit -m "commit message"
+```
+Example:
+
+```bash
+
+git commit -m "Add application entry file"
+```
+💡 Practical Example
+```bash
+
+# After staging files:
+git add app.py
+
+# Create a commit:
+git commit -m "Add app.py file"
+```
+Expected output:
+
+```text
+
+1 file changed
+create mode 100644 app.py
+✅ This means Git has successfully recorded the changes.
+```
+
+# 🔄 Git Workflow
+<div align="center"><img src="https://img.shields.io/badge/Git-Workflow-blue?style=for-the-badge&logo=git" /></div>
+A standard Git workflow follows this sequence:
+
+```text
+
+📁 Working Directory → 📋 Staging Area → 📚 Repository History
+🔍 Explanation:
+📁 Working Directory: Where files are created or modified
+📋 Staging Area: Where selected changes are prepared
+📚 Repository History: Where committed changes are permanently stored
+```
