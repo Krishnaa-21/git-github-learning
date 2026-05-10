@@ -68,3 +68,9 @@ git add app.py
 # Check status again:
 git status
 ```
+Expected output:
+
+{}text
+
+Changes to be committed:
+  new file: app.py
