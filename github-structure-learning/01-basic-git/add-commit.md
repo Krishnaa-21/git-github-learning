@@ -119,3 +119,38 @@ A standard Git workflow follows this sequence:
 📋 Staging Area: Where selected changes are prepared
 📚 Repository History: Where committed changes are permanently stored
 ```
+
+# ⚖️ Difference Between Git Add and Git Commit
+Command	Purpose	Status
+git add	➕ Selects and stages changes for the next commit	<img src="https://img.shields.io/badge/Stage-orange?style=flat-square" />
+git commit	💾 Saves staged changes permanently in Git history	<img src="https://img.shields.io/badge/Commit-green?style=flat-square" />
+🛠️ Common Commands
+<div align="center"><img src="https://img.shields.io/badge/Common-Commands-informational?style=for-the-badge" /></div>
+Stage a single file:
+
+```bash
+
+git add README.md
+```
+<img src="https://img.shields.io/badge/Stage-Single_File-yellow?style=flat-square" />
+Stage all changes:
+
+```bash
+
+git add .
+```
+<img src="https://img.shields.io/badge/Stage-All_Files-orange?style=flat-square" />
+Commit staged changes:
+
+```bash
+
+git commit -m "Add project documentation"
+```
+<img src="https://img.shields.io/badge/Save-Commit-success?style=flat-square" />
+View commit history:
+
+```bash
+
+git log
+<img src="https://img.shields.io/badge/View-History-blue?style=flat-square" />
+```
