@@ -70,7 +70,11 @@ git status
 ```
 Expected output:
 
-{}text
+text
 
 Changes to be committed:
   new file: app.py
+
+✔️ Git Commit
+<div align="center"><img src="https://img.shields.io/badge/Git-Commit-success?style=flat-square&logo=git" /></div>
+The git commit command saves staged changes permanently in Git history.
