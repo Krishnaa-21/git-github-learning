@@ -152,5 +152,5 @@ View commit history:
 ```bash
 
 git log
-<img src="https://img.shields.io/badge/View-History-blue?style=flat-square" />
 ```
+<img src="https://img.shields.io/badge/View-History-blue?style=flat-square" />
