@@ -32,3 +32,25 @@ This gives developers control over what gets saved in project history.
 
 ```bash
 git add <file-name>
+
+Example:
+git add README.md
+
+To stage all current changes:
+
+Bash
+
+git add .
+💡 Practical Example
+# Create a new file:
+touch app.py
+
+# Check repository status:
+git status
+
+Expected output:
+
+text
+
+Untracked files:
+  app.py
