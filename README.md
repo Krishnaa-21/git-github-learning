@@ -162,3 +162,15 @@ git --version
  
 4. Review & repeat - Repetition is key to mastery!
 
+# 🛠️ Resources
+<div align="center"><img src="https://img.shields.io/badge/Helpful-Resources-FF9800?style=for-the-badge&logo=readthedocs&logoColor=white" /></div>
+📚 Official Documentation
+
+Git Official Docs <img src="https://img.shields.io/badge/Official-Docs-red?style=flat-square" />
+GitHub Docs <img src="https://img.shields.io/badge/GitHub-Docs-blue?style=flat-square" />
+🎥 Video Tutorials
+Git & GitHub Crash Course <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+🎓 Interactive Learning
+Learn Git Branching <img src="https://img.shields.io/badge/Interactive-Game-success?style=flat-square" />
+
+
