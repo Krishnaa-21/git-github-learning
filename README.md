@@ -101,9 +101,43 @@ cd git-github-learning
 ✅ Prerequisites
 <div align="center"><img src="https://img.shields.io/badge/What_You-Need-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" /></div>
 Before starting, make sure you have:
-
+```text
 💻 A computer with Windows, macOS, or Linux
 🌐 Internet connection
 📝 A text editor (VS Code recommended)
 🧠 Willingness to learn!
 No prior Git experience required! 🎉
+```
+#🔧 Installation
+<div align="center"><img src="https://img.shields.io/badge/Install-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></div>
+Windows
+```bash
+
+# Download from official website
+https://git-scm.com/download/win
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+```
+macOS
+```bash
+
+# Using Homebrew
+brew install git
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+```
+Linux
+```bash
+
+# Ubuntu/Debian
+sudo apt-get install git
+
+# Fedora
+sudo dnf install git
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+```
+Verify installation:
+
+```bash
+
+git --version
+```
+
