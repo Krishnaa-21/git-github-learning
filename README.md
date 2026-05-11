@@ -98,3 +98,12 @@ git clone https://github.com/yourusername/git-github-learning.git
 
 cd git-github-learning
 ```
+✅ Prerequisites
+<div align="center"><img src="https://img.shields.io/badge/What_You-Need-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" /></div>
+Before starting, make sure you have:
+
+💻 A computer with Windows, macOS, or Linux
+🌐 Internet connection
+📝 A text editor (VS Code recommended)
+🧠 Willingness to learn!
+No prior Git experience required! 🎉
