@@ -164,13 +164,25 @@ git --version
 
 # 🛠️ Resources
 <div align="center"><img src="https://img.shields.io/badge/Helpful-Resources-FF9800?style=for-the-badge&logo=readthedocs&logoColor=white" /></div>
-📚 Official Documentation
+## 📚 Official Documentation
 
-Git Official Docs <img src="https://img.shields.io/badge/Official-Docs-red?style=flat-square" />
-GitHub Docs <img src="https://img.shields.io/badge/GitHub-Docs-blue?style=flat-square" />
-🎥 Video Tutorials
-Git & GitHub Crash Course <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-🎓 Interactive Learning
-Learn Git Branching <img src="https://img.shields.io/badge/Interactive-Game-success?style=flat-square" />
+## 🛠️ Resources
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Helpful-Resources-FF9800?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</div>
 
+### 📚 Official Documentation
+- [Git Official Docs](https://git-scm.com/doc) 
+  <img src="https://img.shields.io/badge/Official-Docs-red?style=flat-square" />
+
+- [GitHub Docs](https://docs.github.com/) 
+  <img src="https://img.shields.io/badge/GitHub-Docs-blue?style=flat-square" />
+
+### 🎥 Video Tutorials
+- [Git & GitHub Crash Course](https://www.youtube.com/results?search_query=git+github+crash+course) 
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+
+### 🎓 Interactive Learning
+- [Learn Git Branching](https://learngitbranching.js.org/) 
+  <img src="https://img.shields.io/badge/Interactive-Game-success?style=flat-square" />
