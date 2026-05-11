@@ -115,11 +115,13 @@ Before starting, make sure you have:
 # 🔧 Installation
 <div align="center"><img src="https://img.shields.io/badge/Install-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></div>
 Windows
-```bash
+
 
 # Download from official website
+```bash
 https://git-scm.com/download/win
 ```
+
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
 
 macOS
@@ -150,8 +152,8 @@ git --version
 ```
 
 # 🎮 Usage
-<div align="center"><img src="https://img.shields.io/badge/How_to-Use_This_Repo-9146FF?style=for-the-badge&logo=instructions&logoColor=white" /></div>
-📖 Learning Path
+<div align="center"><img src="https://img.shields.io/badge/How_to-Use_This_Repo-9146FF?style=for-the-badge&logo=instructions&logoColor=white" /></div>           📖 Learning Path
+
 1. Start with basics - Begin with 01-Introduction folder
 
 2. Practice commands - Each topic has practice exercises
