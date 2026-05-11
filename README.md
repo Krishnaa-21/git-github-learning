@@ -101,14 +101,18 @@ cd git-github-learning
 ✅ Prerequisites
 <div align="center"><img src="https://img.shields.io/badge/What_You-Need-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" /></div>
 Before starting, make sure you have:
-```bash
-💻 A computer with Windows, macOS, or Linux/.
-🌐 Internet connection/.
-📝 A text editor (VS Code recommended)/.
-🧠 Willingness to learn!/.
-No prior Git experience required! 🎉/.
-```
-#🔧 Installation
+- 💻 A computer with Windows, macOS, or Linux
+
+- 🌐 Internet connection
+
+- 📝 A text editor (VS Code recommended)
+
+- 🧠 Willingness to learn
+
+- 🎉 No prior Git experience required
+
+  
+# 🔧 Installation
 <div align="center"><img src="https://img.shields.io/badge/Install-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></div>
 Windows
 ```bash
