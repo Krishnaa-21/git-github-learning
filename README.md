@@ -92,3 +92,9 @@ Whether you're a **complete beginner** 🌱 or looking to **level up your skills
 
 ```bash
 git clone https://github.com/yourusername/git-github-learning.git
+```
+2️⃣ Navigate to the directory
+```bash
+
+cd git-github-learning
+```
