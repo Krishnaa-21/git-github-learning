@@ -11,6 +11,8 @@ Two essential commands for this workflow are:
 - `git push`
 - `git pull`
 
+  
+
 These commands are fundamental for sharing work, updating local projects, and collaborating with teams.
 
 ## Git Push
