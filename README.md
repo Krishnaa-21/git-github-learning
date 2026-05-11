@@ -153,7 +153,10 @@ git --version
 <div align="center"><img src="https://img.shields.io/badge/How_to-Use_This_Repo-9146FF?style=for-the-badge&logo=instructions&logoColor=white" /></div>
 📖 Learning Path
 1. Start with basics - Begin with 01-Introduction folder
+
 2. Practice commands - Each topic has practice exercises
+ 
 3. Build projects - Apply what you learn in real scenarios
+ 
 4. Review & repeat - Repetition is key to mastery!
 
