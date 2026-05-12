@@ -16,5 +16,5 @@ This repository is a professionally structured learning roadmap designed to help
 
 It contains clean documentation, practical examples, command references, and real-world workflows commonly used in software development.
 
-This repository focuses on building strong version control fundamentals and professional collaboration practices.
+This repository focuses on building strong version control fundamentals and professional collaboration practices .
 
