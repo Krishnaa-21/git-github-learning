@@ -74,3 +74,8 @@ After running this command, Git creates a hidden `.git` directory that stores:
 
 ```bash
 git init
+
+
+git init <project-name>
+```
+<img src="https://img.shields.io/badge/Usage-Named_Repository-purple?style=flat-square" />
