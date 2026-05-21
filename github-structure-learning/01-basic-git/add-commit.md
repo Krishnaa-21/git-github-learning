@@ -28,7 +28,7 @@ The `git add` command is used to **stage changes**. Staging means selecting spec
 
 This gives developers control over what gets saved in project history.
 
-### 📝 Syntax
+## 📝 Syntax
 
 ```bash
 git add <file-name>
@@ -39,18 +39,21 @@ Example:
 git add README.md
 ```
 To stage all current changes:
+
 ```bash
 
 git add .
 ```
 
 💡 Practical Example
+
 ```bash
 # Create a new file:
 touch app.py
 ```
 
 # Check repository status:
+
 ```bash
 git status
 ```
@@ -61,6 +64,7 @@ text
 
 Untracked files:
   app.py
+  
 ```bash
 # Stage the file:
 git add app.py
@@ -82,6 +86,7 @@ The git commit command saves staged changes permanently in Git history.
 ```bash
 
 git commit -m "commit message"
+
 ```
 Example:
 
