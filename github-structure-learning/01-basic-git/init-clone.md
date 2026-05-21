@@ -79,3 +79,12 @@ git init
 git init <project-name>
 ```
 <img src="https://img.shields.io/badge/Usage-Named_Repository-purple?style=flat-square" />
+
+
+### 💡 When to Use Git Init
+<div align="center">
+Scenario	Description	Example
+🆕 New Project	Starting from scratch	Creating a personal website
+📁 Existing Folder	Adding version control	Converting local project to Git
+🧪 Experiment	Testing Git features	Learning Git commands
+</div>
