@@ -152,7 +152,7 @@ Verify installation:
 git --version
 ```
 
-# 🎮 Usage
+## 🎮 Usage
 <div align="center"><img src="https://img.shields.io/badge/How_to-Use_This_Repo-9146FF?style=for-the-badge&logo=instructions&logoColor=white" /></div>           📖 Learning Path
 
 1. Start with basics - Begin with 01-Introduction folder
