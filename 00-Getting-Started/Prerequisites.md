@@ -141,6 +141,7 @@ ls      # List files (what's here?)
 cd      # Change Directory (move around)
 mkdir   # Make Directory (create folder)
 touch   # Create file (make new file)
+```
 
 </td> <td width="50%"><h3>🎯 Why Terminal Matters</h3><br>
 <strong>Professional Reality:</strong>
@@ -256,8 +257,10 @@ Bash
 # Create your practice folder
 mkdir git-practice
 cd git-practice
+
 <br><h3>📁 Recommended Structure</h3>
-text
+
+`````text
 
 git-practice/
 ├── 📁 project-1/          # First practice project
@@ -266,6 +269,8 @@ git-practice/
 ├── 📁 experiments/        # Break things here!
 ├── 📁 tutorials/          # Follow-along examples
 └── 📁 notes/              # Your learning notes
+`````
+
 <br><div align="center"> <table> <tr> <td align="center" width="33%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="60"><br><strong>Experiment Freely</strong><br><sub>Try new commands</sub></td> <td align="center" width="33%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="60"><br><strong>Break Things</strong><br><sub>Learn from mistakes</sub></td> <td align="center" width="33%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60"><br><strong>Discover Solutions</strong><br><sub>Build confidence</sub></td> </tr> </table> </div><br><blockquote>💡 <strong>Trust me:</strong> You <strong>will</strong> break things. You <strong>will</strong> make mistakes. And that's <strong>exactly</strong> how Git is learned!</blockquote>
 <br><br>
 
@@ -278,7 +283,8 @@ git-practice/
 
 🧠 7. Learn Concepts Before Commands
 <div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="80"> <h3>Understanding Over Memorization</h3> </div><br><table> <tr> <td width="50%"><h3>❌ The Wrong Approach</h3><br>
-Bash
+
+``````Bash
 
 # Memorizing commands blindly
 git commit -m "message"
@@ -287,6 +293,8 @@ git pull
 git merge
 git rebase
 # ... and 100 more commands
+``````
+
 <br>
 <strong>Problems:</strong>
 
@@ -324,11 +332,14 @@ git rebase
 
 ✅ Pre-Launch Checklist
 <div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="80"> <h3>Are You Ready to Start?</h3> </div><br><table> <tr> <td width="50%"><h3>🖥️ Technical Requirements</h3><br><ul> <li>[ ] <strong>Computer/Laptop</strong> (Windows, Mac, or Linux)</li> <li>[ ] <strong>Git Installed</strong> (Version 2.x or higher)</li> </ul>
-Bash
+
+```Bash
 
 git --version  # Check this
 <ul> <li>[ ] <strong>GitHub Account</strong> (Free tier is perfect)</li> <li>[ ] <strong>Text Editor</strong> (VS Code, Sublime, or any editor)</li> <li>[ ] <strong>Terminal Access</strong> (Command Prompt, PowerShell, or Terminal)</li> <li>[ ] <strong>Internet Connection</strong> (For GitHub and resources)</li> </ul></td> <td width="50%"><h3>🧠 Knowledge & Mindset</h3><br><ul> <li>[ ] <strong>File Management Skills</strong> (Create, edit, delete files)</li> <li>[ ] <strong>Basic Terminal Commands</strong> (cd, ls, mkdir)</li> <li>[ ] <strong>Practice Folder Created</strong> (<code>git-practice/</code>)</li> <li>[ ] <strong>Curiosity to Learn</strong> (Ask questions!)</li> <li>[ ] <strong>Willingness to Experiment</strong> (Break things!)</li> <li>[ ] <strong>Patience with Mistakes</strong> (Learn from errors)</li> <li>[ ] <strong>Commitment to Practice</strong> (15-30 min daily)</li> <li>[ ] <strong>Growth Mindset</strong> (I can learn this!)</li> </ul></td> </tr> </table><br><h3>🎯 Quick Setup Verification</h3>
-Bash
+```
+
+```Bash
 
 # Run these commands to verify everything:
 
@@ -346,6 +357,8 @@ cd git-practice
 
 # 5. Verify GitHub account
 # Open: https://github.com/YOUR-USERNAME
+```
+
 <br><div align="center"> <h3>✅ All Checked? You're Ready!</h3><br>
 <a href="../01-Fundamentals/README.md"><img src="https://img.shields.io/badge/Next-Start_Learning_Git-success?style=for-the-badge&logo=git&logoColor=white"/></a>
 
