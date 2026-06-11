@@ -75,3 +75,29 @@
 + ✅ Professional Workflows - Implement Git Flow, Feature Branch, and Release strategies
 + ✅ Open Source Contribution - Contribute to real-world projects following best practices
 + ✅ CI/CD Integration - Automate workflows with GitHub Actions and DevOps tools
+
+# 👥 Who Should Use This Repository?
+
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400"></div><br><table> <tr> <td width="50%">
+
+## 🎓 Students & Beginners
+Computer Science students
+Coding bootcamp participants
+Self-taught developers
+Career switchers to tech
+Prerequisites: Basic computer literacy
+
+</td> <td width="50%">
+💼 Professional Developers
+Full-Stack Developers
+Frontend/Backend Engineers
+DevOps Engineers
+Software Architects
+Prerequisites: Programming experience
+
+</td> </tr> <tr> <td width="50%">
+🌟 Open Source Contributors
+First-time contributors
+Maintainers seeking best practices
+Community project leaders
+Documentation writers
