@@ -25,7 +25,6 @@
 ### 🌟 **Star us on GitHub — it motivates us a lot!** 🌟
 
 [![GitHub followers](https://img.shields.io/github/followers/Krishnaa-21.svg?style=social&label=Follow)](https://github.com/Krishnaa-21)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Krishnaa-21?style=social)](https://twitter.com/Krishnaa-21)
 
 </div>
 
