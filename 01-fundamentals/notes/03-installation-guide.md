@@ -307,3 +307,5 @@ Before moving to the next chapter, make sure:
 * [ ] `git status` Working
 
 If all boxes are checked, you're ready to start your Git journey 🚀
+
+--Happy Installation 😎🎉
