@@ -23,6 +23,8 @@ git log --oneline
 
 # Limit to the last N commits
 git log -5
+
+git log --graph --oneline
 ```
 
 ---
